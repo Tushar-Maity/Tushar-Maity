@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar989-maity&label=Profile%20views&color=0e75b6&style=flat" alt="tushar989-maity" /> </p>
 
-<img align="right" src="https://github.com/Tushar-Maity/Tushar-Maity/blob/main/assets/68747470733a2f2f6d726964756c323832302e6769746875622e696f2f6769746875622d6173736574732f6173736574732f6769662f636f64696e672e676966.gif" alt="Coder GIF" height="280">
+<img align="right" src="https://github.com/Tushar-Maity/Tushar-Maity/blob/main/assets/full-stack-development.gif" alt="Coder GIF" width="500">
 
 <p align="left"> <a href="https://twitter.com/tusharmaity15" target="blank"><img src="https://img.shields.io/twitter/follow/tusharmaity15?logo=twitter&style=for-the-badge" alt="tusharmaity15" /></a> </p>
 
