@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tusharmaity15" target="blank"><img src="https://img.shields.io/twitter/follow/tusharmaity15?logo=twitter&style=for-the-badge" alt="tusharmaity15" /></a> </p>
 
-- 🔭 I’m currently working with **ReactJS**
+- 🔭 I’m currently working with **ReactJS** and **NextJS**
 
 - 🌱 I’m currently learning **MERN, ReactJS, JavaScript**
 
