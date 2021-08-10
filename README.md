@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working with **ReactJS** and **NextJS**
 
-- 🌱 I’m currently learning **MERN, ReactJS, JavaScript**
+- 🌱 I’m currently learning **MERN stack, ReactJS, JavaScript**
 
 - 👯 I’m looking to collaborate with other **Developers**
 
