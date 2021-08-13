@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Maity</h1>
-<h3 align="center">I'm Tushar, a self-motivated tech enthusiast and front end web developer.</h3>
+<h3 align="center">I'm Tushar, a self-motivated tech enthusiast and front end Web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar989-maity&label=Profile%20views&color=0e75b6&style=flat" alt="tushar989-maity" /> </p>
 
